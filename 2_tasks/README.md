@@ -12,7 +12,7 @@ console.log(transposed);
 ```
 
 Author: Ready4Sleep
-gitHub: 
+gitHub: https://github.com/Ready4Sleep/node/tree/main/2_tasks
 
 
 
