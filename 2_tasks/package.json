@@ -1,5 +1,5 @@
 {
-  "name": "transposematrix",
+  "name": "transposematrix-ready4sleep",
   "version": "1.0.0",
   "description": "Matrix transposion for two-dimensional arrays",
   "main": "index.js",

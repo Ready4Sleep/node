@@ -5,7 +5,7 @@ This module works with __two-dimensional arrays__
 *Use example:*
 
 ```
-const transpose = require('transposematrix');
+const transpose = require('transposematrix-ready4sleep');
 const myMatrix = [[1,2], [3,4]];
 const transposed = transpose.transposematrix(myMatrix)
 console.log(transposed);
